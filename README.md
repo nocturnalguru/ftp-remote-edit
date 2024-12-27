@@ -1,9 +1,10 @@
 # Ftp-Remote-Edit (2025 PORT TO WINDSURF)
 Adjustments to the code to see if I can create / port this over to a newer / better maintained editor with ai baked in.  (I'll initially try with windsurf).
-[Windsurf]https://codeium.com/windsurf
+[Windsurf] https://codeium.com/windsurf
 
 
 ==============ORIGINAL CONTENTS OF PROJECT NOTES ===========
+
 Editing files on your server without the need for creating a local project. It is not necassary to download all files of your project.
 Simply connect and edit your remote files. The files will be automatically updated to the server on saving.
 
